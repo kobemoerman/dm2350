@@ -1,2 +1,2 @@
 # dm2350
-Human Perception for Information Technology Project
+Project Human Perception for Information Technology
